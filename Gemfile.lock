@@ -1,13 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    ansi (1.5.0)
+    colorize (0.7.7)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  ansi
+  colorize
 
 BUNDLED WITH
    1.10.5
